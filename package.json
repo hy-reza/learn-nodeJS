@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hy-reza/learn-nodeJS/issues"
   },
-  "homepage": "https://github.com/hy-reza/learn-nodeJS#readme"
+  "homepage": "https://github.com/hy-reza/learn-nodeJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
