@@ -1,3 +1,3 @@
-const friends = require('./friends')
+const {friends, enemies} = require('./friends')
 
-console.info(friends);
+console.info({friends, enemies});
