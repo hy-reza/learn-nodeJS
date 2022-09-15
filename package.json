@@ -1,0 +1,26 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "learn node js with the net ninja youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-reza/learn-nodeJS.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "Javascript",
+    "Express",
+    "MongoDB",
+    "Learn"
+  ],
+  "author": "hy-reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy-reza/learn-nodeJS/issues"
+  },
+  "homepage": "https://github.com/hy-reza/learn-nodeJS#readme"
+}
