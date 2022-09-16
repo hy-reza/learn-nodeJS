@@ -10,5 +10,6 @@ const writeStream = fs.createWriteStream('./docs/writeStream.txt')
 // })
 
 
+
 //do the same thing
 readStream.pipe(writeStream)
