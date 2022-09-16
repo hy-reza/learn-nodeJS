@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hy-reza/learn-nodeJS#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "nodemon": "^2.0.19"
   }
 }
